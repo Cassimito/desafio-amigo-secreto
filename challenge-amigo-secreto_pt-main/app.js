@@ -29,7 +29,7 @@ campo. value = '';
 // Função para mostrar os amigos na lista
 function mostrarAmigos() {
 // Pego a lista onde vou mostrar os amigos
-let lista = document.getElementById('listaAmigos');
+let lista = documento.getElementById('listaAmigos');
 // Limpo a lista antes de mostrar tudo de novo
 lista.innerHTML = ''; 
 //Uso um loop for para percorrer o array amigos e criar elementos de lista (<li>) para cada nome.
